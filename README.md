@@ -1,7 +1,7 @@
 # GOOD VICTORY FRESH SUPPLIES
 
-<strong>Created on Monday, 3rd August 2020.
-By [Christine Mugambi] (https://github.com/Christine752)</strong>
+<strong>Created on Monday, 3rd August 2020;
+ By Christine Mugambi.</strong>
 
 ## Description
 
@@ -25,7 +25,7 @@ Are you looking for fresh organic farm produce? Good Victory Fresh Supplies is y
 
 For any issues, ideas, queries or concerns about this site, reach out to:
 
-- [Christine Mugambi] (njeri.mugambi@gmail.com)
+- [Christine Mugambi](njeri.mugambi@gmail.com)
 
 ### License
 MIT License 
